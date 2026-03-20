@@ -1,2 +1,3 @@
-# ultra-recipe-manager-kafd
-A recipe management application for modern development workflows
+# Ultra Recipe Manager Kafd
+
+A recipe management application for modern development workflows.
